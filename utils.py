@@ -3,5 +3,5 @@ def add(x, y, z=0):
 
 
 def sub(x, y):
-    '''Subtracts y from x'''
+    """Subtracts y from x"""
     return x - y
