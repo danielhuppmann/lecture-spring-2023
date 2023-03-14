@@ -6,3 +6,5 @@ linters:
         ignore: I002, F403, E203, E402, E731, W503, W605
         max-line-length: 88
         max-complexity: 20
+fixers:
+    enable: true
